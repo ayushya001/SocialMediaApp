@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable-v24/account.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable-v24/background.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable-v24/button_design.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/active.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/border.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/circular_view.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/comment.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/demo_story.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/follow_active_btn.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/follow_unactive_btn.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_add_image.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_add_photo.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_heartred.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_heartsvg.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_heartsvg1.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_options.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/ic_voiews.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/like.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/like_red.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/myfrienddesign.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/notification_design.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/remove_border.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/setting.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/shapee.xml" value="0.176" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/textviewdesign.xml" value="0.188" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/toolbar_bg.xml" value="0.1715" />
+        <entry key="..\:/SocialMedia/app/src/main/res/drawable/transparent_and_circular.xml" value="0.1875" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_add_story.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_add_story2.xml" value="0.25052083333333336" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_comment.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_editprofile.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_options.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_stories_set.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_story.xml" value="0.24010416666666667" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_story2.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_suggestion.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/activity_vadapter.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/add_story_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/add_story_items.xml" value="0.24947916666666667" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/comment_design.xml" value="0.253125" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/demo_comments.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/demo_notification.xml" value="0.18984375" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/demo_posts.xml" value="0.190625" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/demo_story.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_addpost.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_home.xml" value="0.25263157894736843" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_notifications_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_profile.xml" value="0.253125" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_profile_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_storyview_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/fragment_suggestion.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/myfriend_design.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/notification_design.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/personal_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/photo_item.xml" value="0.253125" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/postrv_design.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/set_stories.xml" value="0.253125" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/story_items.xml" value="0.187890625" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/storyrv_design.xml" value="0.253125" />
+        <entry key="..\:/SocialMedia/app/src/main/res/layout/user_sample.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/SocialMedia/app/src/main/res/menu/menu_item.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
